@@ -10,20 +10,20 @@
 - title: "Technological Philosophy or The Mundanity of Silicon"
   url: "/design/"
   side: left
-   dropdown:
-   title: "Theming and UI"
-   url: "/design/poly/"
-   title: "Maxims and the Philosophy of Code"
-   url: "/design/hexi/"
-   title: "Game Design"
-   url: "/design/chromi/"
-   title: "Consumer++"
-   url: "/design/righttorepair/"
-   title: "Unspeakable Things"
-   url: "/design/uWu/"
-   title: "Art Installations/NerdyboiNearYou"
-   url: "/design/picassocrowbar/"
-   
+  dropdown:
+        title: "Theming and UI"
+        url: "/design/poly/"
+        title: "Maxims and the Philosophy of Code"
+        url: "/design/hexi/"
+        title: "Game Design"
+        url: "/design/chromi/"
+        title: "Consumer++"
+        url: "/design/righttorepair/"
+        title: "Unspeakable Things"
+        url: "/design/uWu/"
+        title: "Art Installations/NerdyboiNearYou"
+        url: "/design/picassocrowbar/"
+
   title: "A Starter Pack of Eccentricities"
   url: "/blog/"
   side: left
